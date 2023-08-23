@@ -1,0 +1,21 @@
+{
+  "methodId": "1411",
+  "data": {
+    "username": "onelink",
+    "password": "@PSW#1947",
+    "psid": "{{PSID}}",
+    "transaction_auth_id": "112233",
+    "transaction_amount": "{{amount}}",
+    "tran_time": "122330",
+    "tran_date": "20230809",
+    "bank_mnemonic": "NBP",
+    "reserved": "20210621064647975|1122331|PSW:58400;GST:13600;FE:8000;"
+  },
+  "signature": "",
+  "pagination": {
+    "offset": 10,
+    "size": 10,
+    "sortColumn": "",
+    "sortOrder": ""
+  }
+}

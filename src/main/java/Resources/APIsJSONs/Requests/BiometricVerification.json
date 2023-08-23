@@ -1,0 +1,14 @@
+{
+  "methodId": "1021",
+  "data": {
+    "applicationId": "{{APPID}}",
+    "cnic": "3740504274611",
+    "transactionId": "123",
+    "biometricStatus": "Verified",
+    "name": "Jackson",
+    "fatherName": "John",
+    "dateOfBirth": "05-07-2021",
+    "currentAddress": "Flat B5, DHA Karachi, Pakistan",
+    "permanentAddress": "Flat B5, DHA Karachi, Pakistan"
+  }
+}
